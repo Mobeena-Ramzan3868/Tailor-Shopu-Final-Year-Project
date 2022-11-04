@@ -1,0 +1,101 @@
+body {
+    font-family: 'Andada Pro', serif;
+}
+
+.tmess {
+    /* background-color: green; */
+    margin: 2% 1%;
+    margin-right: 35%;
+    font-size: 130%;
+}
+
+.cmess {
+    /* background-color: yellow; */
+    margin: 2% 1%;
+    margin-left: 35%;
+    font-size: 130%;
+    text-align: right;
+}
+
+.tinnermess {
+    background-color: #dddbdb;
+    display: inline-block;
+    padding: 1% 2%;
+}
+
+.cinnermess {
+    background-color: #6cc4f7;
+    display: inline-block;
+    padding: 1% 2%;
+}
+
+.formchat {
+    margin-left: 5%;
+    width: 92.7%;
+    width: 100%;
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    /* border: 1px solid red; */
+}
+
+.inputmess {
+    padding: 1% 1%;
+    border: 1px solid black;
+    width: 85.6%;
+    font-size: 30px;
+}
+
+.btnmess {
+    padding: 0.7% 1%;
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+}
+
+.headtab {
+    margin-left: 6%;
+    width: 93%;
+    /* border: 1px solid blue; */
+    padding: 1% 0%;
+}
+
+.head {
+    padding: 0.5% 1%;
+    width: 50%;
+    background-color: rgb(72 191 188);
+    font-size: 180%;
+}
+
+.messdiv {
+    /* height: 10%; */
+    margin-left: 6%;
+    width: 94%;
+    height: 36em;
+    /* border: 1px solid red; */
+    overflow-y: scroll;
+}
+
+.tmessdate {
+    color: #5a5a5a;
+    font-size: 55%;
+    padding: 2% 2%;
+}
+
+.tmesstime {
+    color: #5a5a5a;
+    font-size: 55%;
+    padding: 2% 2%;
+}
+
+.cmessdate {
+    color: #5a5a5a;
+    font-size: 55%;
+    padding: 2% 2%;
+}
+
+.cmesstime {
+    color: #5a5a5a;
+    font-size: 55%;
+    padding: 2% 2%;
+}

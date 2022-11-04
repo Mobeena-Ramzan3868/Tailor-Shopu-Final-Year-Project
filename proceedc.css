@@ -1,0 +1,164 @@
+body {
+    font-family: 'Andada Pro', serif;
+}
+
+.error {
+    font-size: 120%;
+    color: white;
+    background-color: red;
+    border: 1px solid red;
+    margin: 4% 0%;
+    margin-bottom: 4%;
+    margin-top: -1%;
+    width: 98%;
+}
+
+.btn {
+    font-size: 18px;
+    font-weight: bold;
+    background-color: rgb(12, 80, 88);
+    border: 1px solid rgb(12, 80, 88);
+    margin: 0px 32px;
+    margin-top: 15px;
+    margin-bottom: 40px;
+    padding: 18px 134px;
+    color: white;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: rgb(3, 62, 94);
+}
+
+.container {
+    background-color: rgb(17, 204, 233);
+    /* border: 1px solid white; */
+    margin: 2% 6%;
+    padding: 1% 4%;
+    width: 40%;
+    padding-bottom: 1%;
+    /* border-radius: 27px; */
+}
+
+.form input {
+    text-align: center;
+    display: block;
+    width: 500px;
+    margin: 11px auto;
+    padding: 5px 18px;
+    border: 2px solid black;
+    font-size: 20px;
+    border-radius: 8px;
+}
+
+.form textarea {
+    /* text-align: center; */
+    display: block;
+    width: 500px;
+    margin: 11px auto;
+    padding: 5px 18px;
+    border: 2px solid black;
+    font-size: 20px;
+    border-radius: 8px;
+    margin-top: 0%;
+}
+
+.container h1 {
+    font-size: 317%;
+    text-align: center;
+    margin-bottom: 27px;
+    padding: 1px 47px;
+}
+
+.container button {
+    margin: 23px auto;
+    width: 86%;
+    display: block;
+    font-size: 22px;
+}
+
+.contbill {
+    background-color: rgb(17, 204, 233);
+    position: absolute;
+    top: 19%;
+    right: 8%;
+    /* height: 400px; */
+    width: 34%;
+    /* border: 1px solid white; */
+}
+
+.contbill h2 {
+    margin: 10% 9.5%;
+    font-weight: bold;
+    margin-bottom: 5%;
+}
+
+.contbill p {
+    font-size: 18px;
+    margin: 12px 67px;
+    font-weight: 900;
+}
+
+.contbill hr {
+    width: 84%;
+    border: 1px solid #0bc2f5;
+}
+
+.itemtdpro {
+    padding: 17% 0%;
+    float: right;
+    width: -1%;
+}
+
+.itempro {
+    padding: 4% 9%;
+    width: 70%;
+}
+
+.trtd {
+    font-size: 123%;
+}
+
+.tottot {
+    font-size: 20px;
+}
+
+.totsum {
+    font-size: 30px;
+    font-weight: bold;
+    float: right;
+    margin-right: 5px;
+}
+
+.form1 {
+    display: inline;
+}
+
+.form1 input {
+    text-align: center;
+    display: inline;
+    width: 33.2%;
+    margin-left: 7.4%;
+    margin-bottom: 2%;
+    padding: 5px 15px;
+    border: 2px solid black;
+    font-size: 20px;
+    border-radius: 8px;
+}
+
+.sampleimg {
+    margin: 4%;
+    font-size: 144%;
+}
+
+.sampleimg h4 {
+    margin-left: 4%;
+    display: inline;
+}
+
+.sampleimg input {
+    /* float: right; */
+    display: inline;
+    margin-left: 3%;
+    font-size: 86%;
+}

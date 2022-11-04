@@ -1,0 +1,76 @@
+body {
+    font-family: 'Andada Pro', serif;
+}
+
+.bgimg {
+    background-image: url("rightfoampic.svg");
+    background-repeat: no-repeat;
+    background-size: 100% 100vh;
+    height: 97.5vh;
+}
+
+.error {
+    font-size: 130%;
+    color: white;
+    background-color: rgb(243 108 108);
+    /* margin-top: 37px; */
+}
+
+.container {
+    margin: 6% 12%;
+    float: left;
+    padding: 8px 54px;
+    width: 40%;
+    padding-bottom: 36px;
+}
+
+.container h1 {
+    text-align: center;
+    padding: 1px 0px;
+    font-size: 364%;
+    margin-bottom: 5%;
+}
+
+.form input {
+    text-align: center;
+    display: block;
+    width: 78.8%;
+    margin: 11px auto;
+    padding: 11px 18px;
+    border: 2px solid black;
+    font-size: 20px;
+    border-radius: 8px;
+}
+
+.formpass {
+    display: block;
+    align-items: center;
+}
+
+.formpass input {
+    text-align: center;
+    /* display: block; */
+    width: 78.8%;
+    margin: 11px auto;
+    padding: 11px 18px;
+    border: 2px solid black;
+    font-size: 20px;
+    border-radius: 8px;
+    margin-left: 7.568%;
+}
+
+.submit {
+    margin: 4% auto;
+    width: 85%;
+    display: block;
+    font-size: 136%;
+    border-radius: 8px;
+    padding: 1%;
+    background: #0c4c4b;
+    color: white;
+}
+
+.alreadyacc {
+    text-align: center;
+    font-size: 105%;
+}

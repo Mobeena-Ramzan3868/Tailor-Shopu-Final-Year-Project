@@ -1,0 +1,200 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Andada Pro', serif;
+}
+
+.container {
+    width: 100%;
+    height: 784px;
+    padding: 0 10px;
+}
+
+input[type="radio"] {
+    position: relative;
+    left: 10%;
+    top: 68%;
+    width: 7%;
+    height: 11%;
+    border: 1px solid rgb(0, 0, 0);
+    -webkit-appearance: none;
+    margin-top: 15px;
+    cursor: pointer;
+}
+
+.input {
+    opacity: 0.6;
+}
+
+input[type="radio"]:checked {
+    opacity: 1;
+    border: 2px solid #02afff;
+}
+
+.display-image {
+    width: 46%;
+    height: 67%;
+    border: 1px solid rgb(0, 0, 0);
+    position: relative;
+    top: -12%;
+    left: 10%;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.sidebox {
+    position: fixed;
+    top: 7%;
+    left: 61%;
+    width: 29%;
+    border: 1px solid rgb(175 172 172);
+}
+
+.tailordesc {
+    font-size: 190%;
+    font-weight: 900;
+    height: 2.4em;
+}
+
+.rightside {
+    margin: 5% 9%;
+    margin-bottom: 0;
+    width: 50%;
+}
+
+.tailorimg {
+    margin: 5% 0%;
+    padding: 0;
+    border-radius: 60%;
+    border: 1px solid #a7a6a6;
+}
+
+.namedetail span {
+    margin: 0% 1%;
+}
+
+.tailorname {
+    padding-left: 7%;
+    font-size: 120%;
+    font-weight: 600;
+}
+
+.noofcust {
+    color: rgb(129 129 129);
+}
+
+.namedetail {
+    display: inline;
+    position: absolute;
+    top: 27.5%;
+    left: 9%;
+    width: 48%;
+}
+
+.heading {
+    padding: 4%;
+    font-size: 190%;
+    font-weight: 900;
+    border: 1px solid rgb(175 172 172);
+}
+
+.price {
+    font-size: 152%;
+    padding: 6%;
+    padding-bottom: 3%;
+}
+
+.priceright {
+    float: right;
+}
+
+.orderdays {
+    padding: 4% 7%
+}
+
+.btnpro button {
+    font-size: 120%;
+    color: white;
+    background-color: #036657;
+    width: 88%;
+    margin: 6% 6%;
+    padding: 3% 4%;
+}
+
+.btncontact button {
+    font-size: 120%;
+    color: white;
+    background-color: #036657;
+    width: 88%;
+    margin: 6% 6%;
+    margin-top: 0%;
+    padding: 3% 4%;
+}
+
+.headtailor {
+    width: 46%;
+    margin: 2% 10%;
+    padding-top: 3%;
+    font-weight: 900;
+    font-size: 175%;
+}
+
+.abouttailor {
+    margin: 2% 10.2%;
+    width: 46%;
+    font-size: 110%;
+}
+
+.sidebox2 {
+    position: fixed;
+    top: 64%;
+    left: 61%;
+    width: 29%;
+    border: 1px solid rgb(175 172 172);
+}
+
+.imglogo {
+    align-items: center;
+    width: 100%;
+}
+
+.imglogo img {
+    margin: 6% 33%;
+    margin-bottom: 2%;
+    border: 1px solid rgb(175 172 172);
+    border-radius: 54%;
+}
+
+.logoname {
+    text-align: center;
+    font-size: 154%;
+    margin-bottom: 4%;
+    font-weight: 900;
+}
+
+.included {
+    margin: 1% 10.2%;
+    width: 46%;
+    font-size: 110%;
+}
+
+.includehead {
+    margin: 0% 10.2%;
+    width: 46%;
+    font-weight: 900;
+    font-size: 120%;
+}
+
+.btntailor button {
+    font-size: 161%;
+    color: white;
+    background-color: #036657;
+    width: 88%;
+    margin: 9% 6%;
+    margin-top: 9%;
+    padding: 6% 4%;
+}
+
+.extra {
+    height: 5%;
+}

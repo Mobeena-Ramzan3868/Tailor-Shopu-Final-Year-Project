@@ -1,0 +1,86 @@
+body {
+    font-family: 'Andada Pro', serif;
+}
+
+button {
+    margin: 1% 4%;
+    width: 19%;
+    float: right;
+    font-size: 110%;
+    border-radius: 5px;
+    padding: 1%;
+    background: #0c4c4b;
+    color: white
+}
+
+.tabledonemain {
+    border: 2px solid black;
+    width: 70%;
+    padding: 1% 1%;
+    margin: 0% auto;
+    background-color: #b8e9e7;
+}
+
+.innertabledone {
+    /* border: 1px solid green; */
+    padding: 3% 3%;
+    width: 100%;
+}
+
+.innertabledone td {
+    border: 1px solid black;
+    padding: 1% 2%;
+}
+
+.tableacceptsour {
+    /* border: 1px solid blue; */
+    padding: 3% 3%;
+    width: 100%;
+}
+
+.tableacceptsour td {
+    border: 1px solid black;
+    padding: 1% 2%;
+}
+
+.tablelastinner {
+    /* border: 1px solid blueviolet; */
+    padding: 0% 3%;
+    width: 100%;
+}
+
+.tablelastinner td {
+    border: 1px solid black;
+    padding: 1% 2%;
+}
+
+.tableaccept {
+    background-color: #b8e9e7;
+    border: 2px solid black;
+    width: 70%;
+    padding: 1% 1%;
+    margin: 3% auto;
+}
+
+.tableacceptinner {
+    /* border: 1px solid brown; */
+    padding: 3% 3%;
+    width: 100%;
+}
+
+.tableacceptinner td {
+    border: 1px solid black;
+    padding: 1% 2%;
+}
+
+.tdall {
+    font-weight: 600;
+    /* padding: 1% 2%; */
+    width: 35%;
+}
+
+.thdessrc {
+    font-size: 130%;
+    font-weight: 900;
+    text-decoration: underline;
+}

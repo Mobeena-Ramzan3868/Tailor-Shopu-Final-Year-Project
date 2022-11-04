@@ -1,0 +1,157 @@
+body {
+    font-family: 'Andada Pro', serif;
+}
+
+.bgimg {
+    background-image: url("rightfoampic.svg");
+    background-repeat: no-repeat;
+    background-size: 100% 100vh;
+    height: 97.5vh;
+}
+
+.error {
+    font-size: 130%;
+    color: white;
+    background-color: rgb(243 108 108);
+    /* margin-top: 37px; */
+}
+
+.container {
+    margin: 2% 12%;
+    float: left;
+    padding: 8px 54px;
+    width: 40%;
+    padding-bottom: 36px;
+}
+
+.formimg p {
+    float: left;
+    margin: 2% 8%;
+    margin-right: 0;
+    font-size: 187%;
+    font-weight: 600;
+}
+
+.formimg input {
+    float: right;
+    width: 46.8%;
+    margin: 2% 8%;
+    margin-left: 0;
+    padding: 5px 18px;
+    border: 2px solid black;
+    font-size: 20px;
+    border-radius: 8px;
+}
+
+.form input {
+    text-align: center;
+    display: block;
+    width: 78.8%;
+    margin: 11px auto;
+    padding: 5px 18px;
+    border: 2px solid black;
+    font-size: 20px;
+    border-radius: 8px;
+}
+
+.formpass {
+    display: block;
+}
+
+.formpass input {
+    text-align: center;
+    /* display: block; */
+    width: 72%;
+    margin: 11px auto;
+    padding: 5px 18px;
+    border: 2px solid black;
+    font-size: 20px;
+    border-radius: 8px;
+    margin-left: 7.568%;
+}
+
+.form textarea {
+    text-align: center;
+    display: block;
+    width: 78.8%;
+    margin: 0px auto;
+    padding: 5px 18px;
+    border: 2px solid black;
+    font-size: 20px;
+    border-radius: 8px;
+}
+
+.form1 {
+    display: inline;
+}
+
+.form1 input {
+    text-align: center;
+    display: inline;
+    width: 33.2%;
+    margin-left: 7.4%;
+    margin-bottom: 2%;
+    padding: 5px 15px;
+    border: 2px solid black;
+    font-size: 20px;
+    border-radius: 8px;
+}
+
+.formleft input {
+    text-align: center;
+    display: block;
+    width: 221px;
+    margin: 11px auto;
+    padding: 5px 18px;
+    border: 2px solid black;
+    font-size: 20px;
+    border-radius: 8px;
+}
+
+.container h1 {
+    text-align: center;
+    padding: 1px 0px;
+    font-size: 277%;
+    margin-bottom: 5%;
+}
+
+.formch {
+    padding: 1% 8%;
+}
+
+.submit {
+    margin: 23px auto;
+    width: 86%;
+    display: block;
+    font-size: 136%;
+    border-radius: 8px;
+    padding: 1%;
+    background: #0c4c4b;
+    color: white;
+}
+
+.alreadyacc {
+    text-align: center;
+    font-size: 105%;
+}
+
+.headh3 {
+    padding: 0% 8%;
+    margin-top: 5%;
+    font-size: 145%;
+}
+
+.sampleimg {
+    margin: 4% 9%;
+    font-size: 133%;
+}
+
+.sampleimg h4 {
+    display: inline;
+}
+
+.sampleimg input {
+    display: inline;
+    margin-left: 13%;
+    font-size: 86%;
+}
